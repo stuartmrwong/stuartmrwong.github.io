@@ -1,5 +1,6 @@
 [
 null,
-null,
-{"id":2,"expanded":true,"name":"MAP002","order":1,"parentId":0,"scrollX":0,"scrollY":0}
+{"id":1,"expanded":false,"name":"Tent Interior","order":2,"parentId":2,"scrollX":0,"scrollY":0},
+{"id":2,"expanded":true,"name":"Test Environment","order":1,"parentId":0,"scrollX":0,"scrollY":0},
+{"id":3,"expanded":false,"name":"Room","order":3,"parentId":2,"scrollX":0,"scrollY":0}
 ]
