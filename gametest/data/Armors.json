@@ -104,5 +104,11 @@ null,
 {"id":102,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"------Cat Clothes","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":103,"atypeId":7,"description":"A Halloween hat that fits cats!","etypeId":3,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":133,"name":"Kitty Hat","note":"","params":[0,2,0,0,2,2,0,2],"price":800},
 {"id":104,"atypeId":7,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":135,"name":"Denim Cat Coat","note":"","params":[0,0,0,2,0,0,0,0],"price":1000},
-{"id":105,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
+{"id":105,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":106,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":107,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":108,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":109,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":110,"atypeId":1,"description":"[Secret Equipment] I cannot believe you found this.","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":153,"name":"Stuart's Jacket","note":"","params":[0,0,0,20,0,0,2,2],"price":9999},
+{"id":111,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
 ]
