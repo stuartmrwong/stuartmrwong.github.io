@@ -3,7 +3,7 @@
     "main": "index.html",
     "chromium-args": "--force-color-profile=srgb --disable-devtools",
     "window": {
-        "title": "Alpha V0.4",
+        "title": "CISA",
         "width": 816,
         "height": 624,
         "position": "center",
